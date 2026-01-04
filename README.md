@@ -2,5 +2,5 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory install on Windows Server 2022 (VMware Workstation Pro 17) </b>
-  - [Active Directory Installation Guide]
+  - [Active Directory Installation Guide](https://github.com/zay65/Active-Directory-VMware-Installations)
  
