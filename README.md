@@ -1,6 +1,7 @@
 <h1>Hello there!</h1>
 <h4>I'm Zayvion, an IT Specialist based in Florida</h4>
-<h4>I have experience in the troubleshooting, teaching, and documentation in ticketing systems of hardware and software issues within Active Directory & Group Policy procedures, user management, creation, deletion, & password reset/account lockouts in Windows 10/11, & Windows Server 2019/2022</h4>
+<h4>I have experience in the implementation, troubleshooting, teaching, and documentation in ticketing systems of software within Active Directory & Group Policy procedures, including, but not limited to, Firewalls, VPNs, DNS & DHCP,  user management, creation, deletion, & password reset/account lockouts in Windows 10/11, & Windows Server 2019/2022</h4>
+<H4>My experience in hardware comes in the form of imaging, troubleshooting, installing, purchasing, repairing, and replacing of Lenovo, HP, MAC, & Dell desktops & laptops, Chromebooks, Iphones, Ipads and Cisco Voip phones.</H4>
 <h4>I am constantly learning new ways to broaden my knowledge of automating and defending IT Help Desk processes and networking through the use of Power Shell, and information security and applying them in simulated environments and homelabs</h4>
 <h4>I utilize Azure VM, VMware Workstation Pro 17, and Oracle VirtualBox for my virtualization environments</h4>
 <H4>My knowledge in Active Directory comes in the form of Windows Active Directory Domain Services (ADDS) & Microsoft ENTRA ID (formerly Azure Active Directory Domain Services)</H4>
