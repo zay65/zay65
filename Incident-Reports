@@ -1,1 +1,21 @@
+Issue:
+User unable to connect to network printer.
 
+Environment:
+Windows 11, domain-joined device
+
+Troubleshooting Steps:
+1. Verified network connectivity
+2. Pinged printer IP
+3. Checked driver installation
+4. Reviewed print spooler service
+5. Reinstalled driver
+
+Root Cause:
+Corrupted driver
+
+Resolution:
+Driver removed and reinstalled
+
+Prevention:
+Updated driver repository and documented fix 
