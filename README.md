@@ -16,4 +16,6 @@
 
 - <b2>Active Directory install on Windows Server 2022 (VMware Workstation Pro 17) </b2>
   - [Active Directory Installation Guide](https://github.com/zay65/Active-Directory-VMware-Installations)
- 
+
+ - <b2>Helpdesk-Powershell-Toolkit </b2>
+   - [Helpdesk-Powershell-Toolkit Guide](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
