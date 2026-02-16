@@ -2,7 +2,7 @@
 
 
 
-<h2>Hello there! I'm Zayvion, an IT Specialist based in Florida, whose goal is to secure a Service Desk / IT Support role.</h2>
+<h2>Hello there! I'm Zayvion, an IT Professional based in Florida, whose goal is to secure a Service Desk / IT Support role.</h2>
 
 <h3>👨‍💻 IT Projects:</h3>
 
@@ -10,7 +10,7 @@
   - [Active Directory Installation Guide](https://github.com/zay65/Active-Directory-VMware-Installations)
  
 -  <b>PowerShell</b>
-     - [JWipe (Disk Wiping Utility)]()
+     - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
 
    
    - [Helpdesk-Powershell-Toolkit](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
