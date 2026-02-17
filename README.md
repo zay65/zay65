@@ -6,19 +6,38 @@
 
 <h3>👨‍💻 IT Projects:</h3>
 
-- <b2>Active Directory install on Windows Server 2022 (VMware Workstation Pro 17) </b2>
+- <b2>Active Directory</b2>
   - [Active Directory Installation Guide](https://github.com/zay65/Active-Directory-VMware-Installations)
  
--  <b>PowerShell</b>
+ -  <b2>PowerShell</b2>
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
-
-   
-   - [Helpdesk-Powershell-Toolkit](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
-
-
-
+      - [Helpdesk-Powershell-Toolkit (Bulk User Account Creation )](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
   
 
+<h3>Ticketing Experience: </h3>
+
+    - SAP
+    - SpiceWorks
+    
+<h3>Windows Experience: </h3>
+
+    - Windows Server 2019
+    - Windows Server 2022
+
+<h3> Virtualization Experience </h3>
+
+    - VMWare Workstation Pro 17
+    - Oracle VirtualBox
+
+<h3> Hardware/Software Experience: </h3>
+
+    - Built custom work and gaming Windows PCs
+    - Macbook battery replacement and troubleshooting
+    - Thermal paste application
+    - PC case fan cleaning/replacement
+    - Adobe Suite use & troubleshooting
+    - Microsoft Office/Microsoft 365 use & troubleshooting
+    - Computer imaging from USB/Offline media & PXE server
 
 <h4>I have experience in the implementation, troubleshooting, teaching, and documentation in ticketing systems of software within Active Directory & Group Policy procedures, including, but not limited to, Firewalls, VPNs, DNS & DHCP,  user management, creation, deletion, & password reset/account lockouts in Windows 10/11, & Windows Server 2019/2022</h4>
 <H4>My experience in hardware comes in the form of imaging, troubleshooting, installing, purchasing, repairing, and replacing of Lenovo, Mac, Dell desktops & laptops, Chromebooks, Xerox printers, Iphones, Ipads and Cisco Voip phones.</H4>
