@@ -2,7 +2,7 @@
 
 
 
-<h2>Hello there! I'm Zayvion, an IT Professional based in Florida, whose goal is to secure a Service Desk / IT Support role.</h2>
+<h2>Hello there! I'm Zayvion, a 2+ year experienced, IT Professional based in Florida, whose goal is to always provide quality assurance and improve client uptime in a Service Desk / IT Support role.</h2>
 
 <h3>👨‍💻 IT Projects:</h3>
 
