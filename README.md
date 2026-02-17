@@ -7,7 +7,7 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Active Directory</b2>
-  - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab))
+  - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
  
  -  <b2>PowerShell</b2>
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
