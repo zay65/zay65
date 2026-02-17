@@ -11,7 +11,7 @@
  
  -  <b2>PowerShell</b2>
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
-      - [Helpdesk-Powershell-Toolkit (Bulk User Account Creation )](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
+      - [Helpdesk-Powershell-Toolkit (Bulk User Account Creation)](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
   
 
 <h3>Ticketing / Written Documentation Experience: </h3>
@@ -35,7 +35,7 @@
 
 <h3> Virtualization Experience </h3>
 
-    - VMWare Workstation Pro 17
+    - VMware Workstation Pro 17
     - Oracle VirtualBox
 
 <h3> Hardware/Software Experience: </h3>
