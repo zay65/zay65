@@ -21,6 +21,8 @@
     
 <h3>Windows Experience: </h3>
 
+    - Windows 10
+    - Windows 11
     - Windows Server 2019
     - Windows Server 2022
 
