@@ -46,12 +46,17 @@
     - Macbook battery replacement and troubleshooting
     - CPU thermal paste app/Re-application
     - PC case fan cleaning/replacement
+    - Ram replacement
+    - SSD replacement
+    - Peripheral installation
    
   <h3> Software Experience: </h3>
 
+    - Device Manger: Driver Reinstall/Updates
     - Adobe Suite use & troubleshooting
     - Microsoft Office/Microsoft 365 use & troubleshooting
     - Computer imaging from USB/Offline media & PXE server
+    - Network & Connectivity CMDs: ipconfig, ping, tracert, and netstat to check connectivity and IP configurations.
 
 
 <h3> VPN: </h3>
