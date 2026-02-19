@@ -30,6 +30,14 @@
     - Windows Server 2019
     - Windows Server 2022
 
+
+<h3> Azure: </h3>
+
+    - Created Virtual Server VM
+    - Installed Active Directory & DNS
+    - Created Organizational units, groups, users
+    - Joined a Windows 10/11 VM to the domain
+
 <h3> Centralized Management: </h3>
 
     - Organizational Units
@@ -44,6 +52,7 @@
 
     - Researched & built custom work and gaming Windows PCs from individual parts
     - Macbook battery replacement and troubleshooting
+    - Windows Laptop battery replacement and troubleshooting
     - CPU thermal paste app/Re-application
     - PC case fan cleaning/replacement
     - Ram replacement
@@ -54,7 +63,7 @@
 
     - Device Manger: Driver Reinstall/Updates
     - Adobe Suite use & troubleshooting
-    - Microsoft Office/Microsoft 365 use & troubleshooting
+    - Microsoft Office Suite/Microsoft 365 use & troubleshooting
     - Computer imaging from USB/Offline media & PXE server
     - Network & Connectivity CMDs: ipconfig, ping, tracert, and netstat to check connectivity and IP configurations.
 
@@ -64,13 +73,6 @@
     - Iphone/Ipad
     - Windows computer
     - AWS Site-to-Site
-
-<h3> Azure: </h3>
-
-    - Created Virtual Server VM
-    - Installed Active Directory & DNS
-    - Created Organizational units, groups, users
-    - Joined a Windows 10/11 VM to the domain
     
 
 <h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security, by applying my skills and experience in simulated environments and homelabs when not handling said processes at work.</h4>
