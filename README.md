@@ -22,14 +22,27 @@
     - SpiceWorks
     - Microsoft Excel
     - Google sheets
+
+ <h3> IT Customer Service Communication Channels: </h3>
+
+    - Remote Desktop Protocol
+    - Livechat
+    - Email
+    - Phone
+    - In-Person
     
-<h3>Windows Experience: </h3>
+<h3> Windows Experience: </h3>
 
     - Windows 10
     - Windows 11
     - Windows Server 2019
     - Windows Server 2022
 
+    
+<h3> Android: </h3>
+
+    - Zebra Handheld Computer Technologies
+    - Zebra Interactive Kiosk System
 
 <h3> Azure: </h3>
 
@@ -57,10 +70,12 @@
     - PC case fan cleaning/replacement
     - Ram replacement
     - SSD replacement
-    - Peripheral installation
+    - Peripheral installation (speakers, webcams, ringlights, conference room appliances)
    
   <h3> Software Experience: </h3>
 
+    - Operating System installation
+    - Account management (password resets, MFA, account access issues)
     - Device Manger: Driver Reinstall/Updates
     - Adobe Suite use & troubleshooting
     - Microsoft Office Suite/Microsoft 365 use & troubleshooting
