@@ -73,7 +73,7 @@
     - Joined a Windows 10/11 VM to the domain
     
 
-<h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security by applying them in simulated environments and homelabs when not handling said processes at work.</h4>
+<h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security, by applying my skills and experience in simulated environments and homelabs when not handling said processes at work.</h4>
 
 
 - <b2>If you want to learn how I do it,  </b2>
