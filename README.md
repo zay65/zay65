@@ -10,6 +10,9 @@
 
 - <b2>Active Directory</b2>
   - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
+  - [Azure Active Directory Home Lab](https://github.com/zay65/Azure-Admin-Homelab)
+
+
  
  -  <b2>PowerShell</b2>
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
@@ -53,8 +56,8 @@
 
 <h3> Centralized Management: </h3>
 
-    - Organizational Units
-    - Group Policy 
+    - Organizational Units & Groups
+    - Group Policy/Account management (password resets, MFA, account access issues)
 
 <h3> Virtualization Experience </h3>
 
@@ -75,7 +78,6 @@
   <h3> Software Experience: </h3>
 
     - Operating System installation
-    - Account management (password resets, MFA, account access issues)
     - Device Manger: Driver Reinstall/Updates
     - Adobe Suite use & troubleshooting
     - Microsoft Office Suite/Microsoft 365 use & troubleshooting
