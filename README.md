@@ -82,9 +82,9 @@
     - Created free AWS account
     - Enabled MFA  
     - Configured billing alarm with cloud watch
-    - Created NON-Root User with IAM (Identity Access Management)
-    - Created VPC (Virtual Private Cloud)  
-    - Created and attached IGW (Internet GateWay)  
+    - Created NON-Root User with Identity Access Management (IAM) 
+    - Created Virtual Private Cloud (VPC)
+    - Created and attached Internet GateWay (IGW) 
     - Created Routing Table  
     - Edited Subnet Associations   
     - Created an AWS Security Group   
