@@ -78,12 +78,6 @@
     - Phone
     - In-Person
     
-<h3> Windows Active Directory Experience: </h3>
-
-    - Windows 10
-    - Windows 11
-    - Windows Server 2019
-    - Windows Server 2022
 
 <h3> Azure Experience: </h3>
  
@@ -98,7 +92,7 @@
     - Created free AWS account
     - Enabled MFA  
     - Configured billing alarm with cloud watch
-    - Created NON-Root User with Identity Access Management (IAM) 
+    - Created IAM user
     - Created Virtual Private Cloud (VPC)
     - Created and attached Internet GateWay (IGW) 
     - Created Routing Table  
@@ -123,7 +117,7 @@
 <h3> VPN: </h3>
 
     - Iphone/Ipad
-    - Windows computer
+    - Windows VPN Server 
     - AWS Site-to-Site
     
 
