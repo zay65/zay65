@@ -18,6 +18,22 @@
  -  <b2>PowerShell</b2>
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
       - [Helpdesk-Powershell-Toolkit (Bulk User Account Creation)](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
+  
+   <h3> Operating System experience: </h3>
+
+  - Windows
+    
+     - Windows 10, 11 | Windows Server 2016, 2019, 2022
+  - macOS
+  - Linux
+
+    - Ubuntu 24.04 LTS | Kali Linux
+         
+
+
+
+
+
 
    <h3> Centralized Server & Cloud-based Management: </h3>
 
