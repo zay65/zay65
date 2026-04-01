@@ -2,7 +2,7 @@
 
 
 
-<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with 2 years of experience handling hardware and software issues.
+<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab and related tech support experience (school-based IT work, certifications, and strong customer service with technical aptitude), handling hardware and software issues.
  
   I strive to provide quality assurance, maintain client uptime & satisfaction, and mitigate downtime in a Service Desk / IT Support role.</h2>
 
@@ -10,6 +10,7 @@
 
 - <b2>Active Directory</b2>
   - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
+  - [MS365-Admin-Business-Homelab](https://github.com/zay65/MS365-Admin-Business-Homelab)
   - [Azure-Admin-Home Lab](https://github.com/zay65/Azure-Admin-Homelab)
   - [AWS-Admin-Homelab](https://github.com/zay65/AWS-Admin-Homelab)
 
@@ -43,7 +44,7 @@
     - Microsoft 365 administration (Resetting passwords, assisting with MFA, and resolving account access issues)
 
 
-   <h3>Ticketing / Written Documentation Experience: </h3>
+   <h3>Ticketing / Written Documentation / Inventory MGMT Experience: </h3>
 
     - SAP
     - SpiceWorks
@@ -73,7 +74,6 @@
  <h3> IT Customer Service Communication Channels: </h3>
 
     - Remote Desktop Protocol
-    - Livechat
     - Email
     - Phone
     - In-Person
