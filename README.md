@@ -93,7 +93,7 @@
    
 <h3> AWS Experience: </h3>
 
-    - Created free AWS account
+    - Created AWS account
     - Enabled MFA  
     - Configured billing alarm with cloud watch
     - Created IAM user
