@@ -36,7 +36,6 @@
   - Windows
     
      - Windows 10, 11 | Windows Server 2016, 2019, 2022
-  - macOS
   - Linux
 
     - Ubuntu 24.04 LTS | Kali Linux
