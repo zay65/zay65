@@ -20,6 +20,17 @@
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
       - [Helpdesk-Powershell-Toolkit (Bulk User Account Creation)](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
   
+
+  
+    <h3>Ticketing / Written Documentation / Inventory MGMT Experience: </h3>
+
+    - [SpiceWorks](https://github.com/zay65/Service-Desk-Ticketing-log)
+    -  SAP
+    - Microsoft Excel
+      
+  
+
+  
    <h3> Operating System experience: </h3>
 
   - Windows
@@ -43,13 +54,6 @@
          -(Password, USB storage device restriction, Control panel restriction, Wallpaper, & Mapped Drive policies)
     - Microsoft 365 administration (Resetting passwords, assisting with MFA, and resolving account access issues)
 
-
-   <h3>Ticketing / Written Documentation / Inventory MGMT Experience: </h3>
-
-    - SAP
-    - SpiceWorks
-    - Microsoft Excel
-    - Google sheets
 
 
 <h3> Hardware Experience: </h3>
