@@ -9,7 +9,7 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Server</b2>
-  - [Ubuntu-storage-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
+  - [Ubuntu-remote-storage-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
 
 - <b2>Active Directory</b2>
   - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
