@@ -2,7 +2,7 @@
 
 
 
-<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab and related tech support experience (school-based IT work, certifications, and strong customer service with technical aptitude), handling hardware and software issues.
+<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab and related tech support knowledge (school-based IT work, certifications, strong customer service experience and technical aptitude from the health, logistics, & aerospace industry) handling hardware and software issues.
  
   I strive to provide quality assurance, maintain client uptime & satisfaction, and mitigate downtime in a Service Desk / IT Support role.</h2>
 
@@ -28,8 +28,9 @@
     <h3>Ticketing / Written Documentation / Inventory MGMT Experience: </h3>
 
     - [SpiceWorks](https://github.com/zay65/Service-Desk-Ticketing-log)
-    -  SAP
     - Microsoft Excel
+    -  SAP
+    
       
   
 
@@ -44,16 +45,12 @@
     - Ubuntu 24.04 LTS | Kali Linux
          
 
-
-
-
-
-
    <h3> Centralized Server & Cloud-based Management: </h3>
-
-    - Windows Active Directory Organizational Units & Groups (Virtualbox, VMware, Azure, & AWS)
-    - Group Policy/Account management (Active Directory user password resets, MFA, account access issues 
-         -(Password, USB storage device restriction, Control panel restriction, Wallpaper, & Mapped Drive policies)
+    
+    - Linux Network Attached Storage (NAS) for files, photos, movies, shows, etc
+    - Active Directory organizational units & groups within VMs (VMware, VirtualBox, Azure, AWS)
+    - Account management (Active Directory user password resets, MFA, account access issues) 
+    - Group Policy (Password, USB storage device restriction, control panel restriction, wallpaper, & mapped drive policies)
     - Microsoft 365 administration (Resetting passwords, assisting with MFA, and resolving account access issues)
 
 
@@ -73,44 +70,23 @@
 
     - Operating System installation
     - Device Manger: System/App updates & Driver Installation/Reinstallation
-    - Adobe Suite use & troubleshooting
+    - Adobe Suite use 
     - Network & Connectivity CMD use: ipconfig, ping, tracert, and netstat to check connectivity and IP configurations.
 
 
- <h3> IT Customer Service Communication Channels: </h3>
+ <h3> Customer Service Communication Channel Experience: </h3>
 
     - Remote Desktop Protocol
     - Email
     - Phone
     - In-Person
-    
-
-<h3> Azure Experience: </h3>
- 
-    - Created a Windows Server 2019/2022 VM, on a dedicated subnet. 
-    - Assigned static private IP address to VM's network interface, set virtual network's DNS server to DC's IP address
-    - Added Active Directory Domain Services role
-    - Promoted server to a Domain Controller
-    - Ensured network security groups (NSGs) allowed necessary ports and restricted public RDP access.
    
-<h3> AWS Experience: </h3>
 
-    - Created AWS account
-    - Enabled MFA  
-    - Configured billing alarm with cloud watch
-    - Created IAM user
-    - Created Virtual Private Cloud (VPC)
-    - Created and attached Internet GateWay (IGW) 
-    - Created Routing Table  
-    - Edited Subnet Associations   
-    - Created an AWS Security Group   
-    - Launched, connected to, and terminated AWS EC2 Linux Instance  
-    - Launched, connected to, and terminated AWS EC2 Windows Instance   
+<h3> Mobile/Kiosk devices </h3>
 
-<h3> Android: </h3>
-
-    - Zebra Handheld Computer Technologies
-    - Zebra Interactive Kiosk System
+    - (iOS) Iphone 15+ iOS 26.3.1
+    - (Android) Zebra Handheld Computer Technologies
+    - (Android) Zebra Interactive Kiosk System
 
 
 <h3> Virtualization Experience </h3>
@@ -125,6 +101,7 @@
     - Iphone/Ipad
     - Windows VPN Server 
     - AWS Site-to-Site
+    - Tailscale
     
 
 <h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security, by applying my skills and experience in simulated environments and homelabs when not handling said processes at work.</h4>
