@@ -2,9 +2,7 @@
 
 
 
-<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab and related tech support knowledge (school-based IT work, certifications, strong customer service experience and technical aptitude from the health, logistics, & aerospace industry) handling hardware and software issues.
- 
-  I strive to provide quality assurance, maintain client uptime & satisfaction, and mitigate downtime in a Service Desk / IT Support role.</h2>
+<h2> <h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab related tech support knowledge, aptitude, (school-based IT work & certifications) & customer service experience from the health, logistics, & aerospace industry handling hardware and software issues.</h2>
 
 <h3>👨‍💻 IT Projects:</h3>
 
@@ -107,7 +105,7 @@
     - Tailscale
     
 
-<h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security, by applying my skills and experience in simulated environments and homelabs when not handling said processes at work.</h4>
+<h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security, by applying my skills and experience in simulated environments and homelabs when not handling said processes at work. I strive to provide quality assurance, maintain client uptime & satisfaction, and mitigate downtime in a Service Desk / IT Support role.</h4>
 
 
 - <b2>If you want to learn how I do it,  </b2>
