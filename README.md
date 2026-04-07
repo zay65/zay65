@@ -12,8 +12,8 @@
 - <b2>Active Directory</b2>
   - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
   - [MS 365-Admin-Business-Homelab](https://github.com/zay65/MS365-Admin-Business-Homelab)
-    
-      - [ MS 365 Admin Password resets/Enabling SSPR](https://github.com/zay65/Resolving-account-access-issues/blob/main/README.md)
+      - [MS 365 User creation](https://github.com/zay65/MS-365-User-Creation)
+      - [MS 365 Admin password resets/Enabling SSPR](https://github.com/zay65/Resolving-account-access-issues/blob/main/README.md)
     
   - [Azure-Admin-Home Lab](https://github.com/zay65/Azure-Admin-Homelab)
   - [AWS-Admin-Homelab](https://github.com/zay65/AWS-Admin-Homelab)
