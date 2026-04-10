@@ -44,7 +44,7 @@
      - Windows 10, 11 | Windows Server 2016, 2019, 2022
   - Linux
 
-    - Ubuntu 24.04 LTS | Kali Linux
+    - Ubuntu 24.04 LTS CLI | Kali Linux
          
 
    <h3> Centralized Server & Cloud-based Management: </h3>
