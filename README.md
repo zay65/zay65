@@ -10,7 +10,7 @@
   - [Ubuntu-NAS-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
 
 - <b2>Active Directory</b2>
-  - [Windows-Admin-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
+  - [Windows-2022-Admin-VMware-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
   - [MS 365-Admin-Business-Homelab](https://github.com/zay65/MS365-Admin-Business-Homelab)
       - [MS 365 User creation](https://github.com/zay65/MS-365-User-Creation)
       - [MS 365 MFA config](https://github.com/zay65/MS-365-MFA-config/edit/main/README.md)
