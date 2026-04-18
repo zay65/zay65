@@ -6,18 +6,21 @@
 
 <h3>👨‍💻 IT Projects:</h3>
 
-- <b2>Server</b2>
+- <b2>Hypervisor Exp:</b2>
+   - [Proxmox-Azure-SCCM-Intune-lab](https://github.com/zay65/Proxmox-Azure-SCCM-Intune-homelab)
+
+- <b2>Server Exp:</b2>
   - [Ubuntu-NAS-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
 
 - <b2>Active Directory</b2>
-  - [Windows-2022-Admin-VMware-Homelab](https://github.com/zay65/Windows-Admin-Homelab)
-  - [MS 365-Admin-Business-Homelab](https://github.com/zay65/MS365-Admin-Business-Homelab)
+  - [Windows-2022-Admin-VMware-homelab](https://github.com/zay65/Windows-Admin-Homelab)
+    
+  - [MS 365-Admin-Business-homelab](https://github.com/zay65/MS365-Admin-Business-Homelab)
       - [MS 365 User creation](https://github.com/zay65/MS-365-User-Creation)
       - [MS 365 MFA config](https://github.com/zay65/MS-365-MFA-config/edit/main/README.md)
       - [MS 365 Admin password resets/Enabling SSPR](https://github.com/zay65/Resolving-account-access-issues/blob/main/README.md)
-    
-  - [Azure-Admin-Home Lab](https://github.com/zay65/Azure-Admin-Homelab)
-  - [AWS-Admin-Homelab](https://github.com/zay65/AWS-Admin-Homelab)
+        
+  - [AWS-Admin-homelab](https://github.com/zay65/AWS-Admin-Homelab)
 
 
  
