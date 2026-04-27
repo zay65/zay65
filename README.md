@@ -15,7 +15,7 @@
 - <b2>Troubleshooting Exp:</b2>
    - [Linux](https://github.com/zay65/Troubleshooting-Experience-Linux)
 
-- <b2>Active Directory</b2>
+- <b2>Active Directory/Central server/Cloud MGMT</b2>
   - [Windows-2022-Admin-VMware-homelab](https://github.com/zay65/Windows-Admin-Homelab)
     
   - [MS-365-Admin-Business-homelab-overview](https://github.com/zay65/MS365-Admin-Business-Homelab)
