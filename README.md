@@ -2,7 +2,7 @@
 
 
 
-<h2> <h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab related tech support knowledge, aptitude, (school-based IT work & certifications) & customer service experience from the health, logistics, & aerospace industry handling hardware and software issues.</h2>
+<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab related tech support knowledge, aptitude, (school-based IT work & certifications) & customer service experience from the health, logistics, & aerospace industry handling hardware and software issues.</h2>
 
 <h3>👨‍💻 IT Projects:</h3>
 
@@ -11,6 +11,9 @@
 
 - <b2>Server Exp:</b2>
   - [Ubuntu-NAS-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
+   
+- <b2>Troubleshooting Exp:</b2>
+   - [Linux](https://github.com/zay65/Troubleshooting-Experience-Linux)
 
 - <b2>Active Directory</b2>
   - [Windows-2022-Admin-VMware-homelab](https://github.com/zay65/Windows-Admin-Homelab)
@@ -22,6 +25,7 @@
         
   - [AWS-Admin-homelab](https://github.com/zay65/AWS-Admin-Homelab)
 
+      
 
  
  -  <b2>PowerShell</b2>
