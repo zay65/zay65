@@ -48,7 +48,7 @@
 
   - Windows
     
-     - Windows 10, 11 | Windows Server 2016, 2019, 2022
+     - Windows 7, 10, 11 | Windows Server 2008 R2, 2016, 2019, 2022
   - Linux
 
     - Ubuntu 24.04 LTS CLI | Kali Linux
