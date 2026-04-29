@@ -2,7 +2,7 @@
 
 
 
-<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab related tech support knowledge, aptitude, (school-based IT work & certifications) & customer service experience from the health, logistics, & aerospace industry handling hardware and software issues.</h2>
+<h2> Hello there! I'm Zayvion K. Smith, an IT Professional with over 2 years of homelab related tech support knowledge, aptitude (school-based IT work & certifications), & customer service experience from the health, logistics, & aerospace industry handling hardware and software issues.</h2>
 
 <h3>👨‍💻 IT Projects:</h3>
 
