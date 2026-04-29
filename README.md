@@ -7,7 +7,7 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Hypervisor Exp:</b2>
-   - [Proxmox-Azure-SCCM-Intune-lab](https://github.com/zay65/Proxmox-Azure-SCCM-Intune-homelab)
+   - [Proxmox (Azure-SCCM-Intune) lab](https://github.com/zay65/Proxmox-Azure-SCCM-Intune-homelab)
 
 - <b2>Server Exp:</b2>
   - [Ubuntu-NAS-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
