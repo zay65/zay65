@@ -94,7 +94,8 @@
    
 
 <h3> Mobile/Kiosk devices </h3>
-    - Microsoft Intune Mobile Device Management (MDM)
+
+    - (MDM) Microsoft Intune Mobile Device Management 
     - (iOS) Iphone 15+ iOS 26.3.1
     - (Android) Zebra Handheld Computer Technologies
     - (Android) Zebra Interactive Kiosk System
@@ -102,9 +103,10 @@
 
 <h3> Virtualization Experience </h3>
 
+    - Proxmox virtualization
     - VMware Workstation Pro 17
     - Oracle VirtualBox
-    - Azure Virtualization
+    - Azure virtualization
     - AWS virtualization
 
 <h3> VPN: </h3>
@@ -117,9 +119,6 @@
 
 <h4> I am constantly learning new ways to broaden my knowledge of automating, improving, & simplifying IT Help Desk processes and networking for associates and clients within enterprise level businesses, specifically through the use of Power Shell and information security, by applying my skills and experience in simulated environments and homelabs when not handling said processes at work. I strive to provide quality assurance, maintain client uptime & satisfaction, and mitigate downtime in a Service Desk / IT Support role.</h4>
 
-
-- <b2>If you want to learn how I do it,  </b2>
-   [my youtube videos are available here](https://www.youtube.com/@I.T.easy4U)
 
 
 
