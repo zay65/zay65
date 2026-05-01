@@ -13,7 +13,9 @@
   - [Ubuntu-NAS-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
    
 - <b2>Troubleshooting Exp:</b2>
+   - [Proxmox](https://github.com/zay65/Troubleshooting-Experience-Linux)
    - [Linux](https://github.com/zay65/Troubleshooting-Experience-Linux)
+ 
 
 - <b2>Active Directory/Central server/Cloud MGMT</b2>
   - [Windows-2022-Admin-VMware-homelab](https://github.com/zay65/Windows-Admin-Homelab)
