@@ -94,7 +94,7 @@
    
 
 <h3> Mobile/Kiosk devices </h3>
-
+    - Microsoft Intune Mobile Device Management (MDM)
     - (iOS) Iphone 15+ iOS 26.3.1
     - (Android) Zebra Handheld Computer Technologies
     - (Android) Zebra Interactive Kiosk System
