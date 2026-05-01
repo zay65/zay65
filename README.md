@@ -13,7 +13,7 @@
   - [Ubuntu-NAS-&-media-entertainment-server](https://github.com/zay65/Ubuntu-remote-storage-media-entertainment-server)
    
 - <b2>Troubleshooting Exp:</b2>
-   - [Proxmox](https://github.com/zay65/Troubleshooting-Experience-Linux)
+   - [Proxmox](https://github.com/zay65/Troubleshooting-Experience-Proxmox)
    - [Linux](https://github.com/zay65/Troubleshooting-Experience-Linux)
  
 
