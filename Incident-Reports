@@ -1,4 +1,28 @@
 Issue:
+Unable to join Windows 10 LTSC vm to Windows Server vm domain.
+
+Environment:
+Proxmox Virtual Environment, attempting to connect cleint vm to domain controller vm
+
+Troubleshooting Steps:
+1. Verified network connectivity
+2. Pinged domain IP
+3. Performed nslookup of domain
+4. Gave domain vm a static ip outside of DHCP scope 
+5. Set client vm's DNS server to point to IP of domain vm's IP
+
+Root Cause:
+DNS Issues
+
+Resolution:
+Set client vm's DNS server to point to IP of domain vm's IP
+
+Prevention:
+Document instructions in ticketing system to always set a static ip for Domain Controller and configure all client dns servers to match upon creation.
+
+
+
+Issue:
 User unable to connect to network printer.
 
 Environment:
@@ -19,3 +43,5 @@ Driver removed and reinstalled
 
 Prevention:
 Updated driver repository and documented fix 
+
+
