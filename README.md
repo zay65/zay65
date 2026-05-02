@@ -7,7 +7,7 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Hypervisor\Server Exp:</b2>
-   - [Proxmox-(Linux)-Network-Attached-Storage/media-entertainment-server](https://github.com/zay65/Proxmox-Azure-SCCM-Intune-homelab)
+   - [Proxmox-Ubuntu-Network-Attached-Storage-&-media-entertainment-server](https://github.com/zay65/Proxmox-Azure-SCCM-Intune-homelab)
    
 - <b2>Troubleshooting Exp:</b2>
    - [Proxmox](https://github.com/zay65/Troubleshooting-Experience-Proxmox)
