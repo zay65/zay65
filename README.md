@@ -7,7 +7,7 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Hypervisor\Server Exp:</b2>
-   - [Proxmox-Ubuntu-Network-Attached-Storage-&-media-entertainment-server](https://github.com/zay65/Proxmox-Azure-SCCM-Intune-homelab)
+   - [Remote-Proxmox-hypervisor-media-entertainment-server](https://github.com/zay65/Remote-Proxmox-hypervisor-media---entertainment-server)
    
 - <b2>Troubleshooting Exp:</b2>
    - [Proxmox](https://github.com/zay65/Troubleshooting-Experience-Proxmox)
@@ -27,7 +27,7 @@
       
 
  
- -  <b2>PowerShell</b2>
+ -  <b2>PowerShell (automation of IT tasks)</b2>
      - [Drive-Wipe (Disk Sanitization Utility)](https://github.com/zay65/Drive-Wipe.PowerShell)
       - [Helpdesk-Powershell-Toolkit (Bulk User Account Creation)](https://github.com/zay65/Helpdesk-Powershell-Toolkit)
   
