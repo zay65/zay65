@@ -7,14 +7,21 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Hypervisor\Server Exp:</b2>
-   - [Remote-Proxmox-hypervisor-media-entertainment-server](https://github.com/zay65/Remote-Proxmox-hypervisor-media---entertainment-server)
-   
+   - [Remote-Proxmox-hypervisor-media-entertainment-server](https://github.com/zay65/Router-Configuration/tree/main)
+
+- <b2>Networking MGMT:</b2>
+   - [Router](https://github.com/zay65/Remote-Proxmox-hypervisor-media---entertainment-server)
+
+
+- <b2> Endpoint MGMT:</b2>
+   - [Printer](https://github.com/zay65/Printer-Management)
+    
 - <b2>Troubleshooting Exp:</b2>
    - [Proxmox](https://github.com/zay65/Troubleshooting-Experience-Proxmox)
    - [Linux](https://github.com/zay65/Troubleshooting-Experience-Linux)
  
 
-- <b2>Active Directory/Central server/Cloud MGMT</b2>
+- <b2>Active Directory/Central Server/Cloud MGMT</b2>
   - [Windows-2022-Admin-VMware-homelab](https://github.com/zay65/Windows-Admin-Homelab)
     
   - [MS-365-Admin-Business-homelab-overview](https://github.com/zay65/MS365-Admin-Business-Homelab)
@@ -50,7 +57,7 @@
      - Windows 7, 10, 11 | Windows Server 2008 R2, 2016, 2019, 2022
   - Linux
 
-    - Ubuntu 24.04 LTS CLI | Kali Linux
+    - Ubuntu 24.04 LTS CLI | Ubuntu Desktop | Kali Linux
          
 
    <h3> Centralized Server & Cloud-based Management: </h3>
