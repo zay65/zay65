@@ -7,7 +7,7 @@
 <h3>👨‍💻 IT Projects:</h3>
 
 - <b2>Hypervisor\Server Exp:</b2>
-   - [Remote-Proxmox-hypervisor-media-entertainment-server](https://github.com/zay65/Router-Configuration/tree/main)
+   - [Remote-Proxmox-Storage-Entertainment-Server](https://github.com/zay65/Remote-Proxmox-hypervisor-media---entertainment-server)
 
 - <b2>Networking MGMT:</b2>
    - [Router](https://github.com/zay65/Remote-Proxmox-hypervisor-media---entertainment-server)
